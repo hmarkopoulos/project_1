@@ -1,0 +1,29 @@
+Launch Visual Studio
+New Terminal
+bash models
+
+$marko@MSI MINGW64 //wsl.localhost/Ubuntu/root
+$cd ~ (goto root directory)
+
+
+
+Goto git,https://git.bethelservice.org/appsvc/azure-org
+Clone tab
+Select close with hhtp
+Open in your IDE in http
+select src (select repository)
+login with bethel\HMarkopoulos
+and following token instead of password:   glpat-sJoKWEPznPZ34yXceG6u
+
+
+Directory extension attributes, also called Azure AD extensions, provide a way to store additional data in Azure Active Directory on user objects and other directory objects such as groups, tenant details, service principals. 
+
+A claims mapping policy is a type of Policy object that modifies the claims emitted in tokens issued for specific applications.
+
+a Policy object represents a set of rules enforced on individual applications or on all applications 
+
+A claim is information that an identity provider states about a user inside the token they issue for that user.
+
+Claims-mapping policies can only be assigned to service principal objects. 
+
+The main purpose of the Terraform language is declaring resources, which represent infrastructure objects.   https://developer.hashicorp.com/terraform/language
